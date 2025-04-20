@@ -7,8 +7,6 @@
     <title>Bloggy</title>
 </head>
 <body>
-    <h1 class="text-3xl font-bold underline flex justify-center bg-gray-500 h-10 ">
-        Hello world!
-      </h1>
+   
 </body>
 </html>
