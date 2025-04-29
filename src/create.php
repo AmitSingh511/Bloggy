@@ -13,6 +13,7 @@
 <body class="font-sans text-gray-800">
         <div class="flex justify-center items-center min-h-screen bg-gray-100">
             <form method="post" enctype="multipart/form-data" class="flex flex-col gap-4  w-full max-w-md p-10 shadow-[0_0_10px_rgba(255,255,255,0.6)] bg-orange-200 rounded-xl">
+                <h1>Create Blog</h1>
                 <label for="title">Title</label>
                 <input type="text" id="title" name="title" class=" bg-gray-200 h-8 rounded-md" required >
                 <label for="author">Author</label>
